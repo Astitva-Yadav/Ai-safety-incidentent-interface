@@ -26,7 +26,7 @@ The AI Safety Incident Interface is a comprehensive dashboard designed to help o
 
 1. **Clone the repository:**
    ```sh
-   git clone [your-repository-url]
+   git clone https://github.com/Astitva-Yadav/Ai-safety-incidentent-interface
    cd ai-safety-incident-interface
    ```
 
